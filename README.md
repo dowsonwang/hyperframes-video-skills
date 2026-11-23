@@ -16,10 +16,10 @@
 
 ## 安装到项目
 
-使用 Codex、Git、GitHub CLI、Node.js 22.20+ 和 FFmpeg。先用有仓库访问权限的 GitHub 账号登录，再将仓库克隆到视频项目旁边。
+使用 Codex、Git、Node.js 22.20+ 和 FFmpeg。先将仓库克隆到视频项目旁边。
 
 ```bash
-gh repo clone dowsonwang/hyperframes-video-skills
+git clone https://github.com/dowsonwang/hyperframes-video-skills.git
 mkdir -p my-video
 cd my-video
 ```
